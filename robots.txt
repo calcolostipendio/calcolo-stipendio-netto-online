@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calcolostipendio.github.io/calcolo-stipendio-netto-online/sitemap.xml
